@@ -9,13 +9,13 @@ import moment from 'moment-timezone'
 
 //============= OWMER ============= 
 global.owner = [
-  ['5218442286089', '👑 DIEGO-OFC 👑', true],
-  ['5219992095479', '👑 BRUNO-SOBRINO', true]
+  ['51956580358', 'DIEGO', true],
+  ['51956580358', 'DIEGO', true]
 ] 
 //Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['51956580358'] 
+global.prems = ['51956580358'] 
 
 //============= TEXTOS ============= 
 global.packname = '(☞ﾟ∀ﾟ)☞'
